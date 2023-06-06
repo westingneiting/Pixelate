@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Press Start 2P', cursive;
-}
+  font-family: 'Press Start 2P', cursive;}
 
 html {
   background-color: #222;
@@ -15,3 +14,25 @@ body {
 }
 
 /* your CSS below! */
+
+td{
+  height: 50px;
+  width: 50px;
+  background-color: lightgray;
+}
+
+.yellow{
+  background-color: rgb(254, 215, 0);
+}
+
+.red{
+  background-color: rgb(191, 10, 48);
+}
+
+.blue{
+  background-color: rgb(0, 40, 104);
+}
+
+.orange{
+  background-color: rgb(206, 92, 23);
+}
